@@ -54,7 +54,7 @@ function App() {
 
   return (
     <div className="App">
-      <Nav />
+    
       <Header />
       <section className="pricing py-5 bg-primary">
         <div className="container">
